@@ -17,7 +17,7 @@ MaoSwords is a Minecraft plugin that introduces custom swords with special abili
 - **Ice Sword**
   - Regular attack: Applies Slowness effect to the target.
   - Special ability (Right-click): Launches a snowball.
-  - Cooldown: 5 seconds.
+  - Cooldown: Not.
 
 ## Commands
 

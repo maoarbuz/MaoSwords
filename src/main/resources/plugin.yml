@@ -1,0 +1,6 @@
+name: MaoSwords
+version: '${project.version}'
+main: me.maoswords.MaoSwords
+api-version: 1.16
+commands:
+  mcs:

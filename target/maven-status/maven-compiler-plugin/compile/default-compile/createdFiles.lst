@@ -1,0 +1,15 @@
+me\maoswords\recipes\FireSword.class
+me\maoswords\recipes\ThunderSword.class
+me\maoswords\swords\skills\IceSwordAbility.class
+me\maoswords\cmd\give\FireSwordGive.class
+me\maoswords\MaoSwords.class
+me\maoswords\swords\ThunderSwordSkills.class
+me\maoswords\swords\IceSwordSkills.class
+me\maoswords\cmd\give\IceSwordGive.class
+me\maoswords\swords\skills\ThunderSwordAbility.class
+me\maoswords\utils\CooldownManager.class
+me\maoswords\swords\skills\FireSwordAbility.class
+me\maoswords\cmd\give\ThunderSwordGive.class
+me\maoswords\cmd\SwordCommand.class
+me\maoswords\recipes\IceSword.class
+me\maoswords\swords\FireSwordSkills.class

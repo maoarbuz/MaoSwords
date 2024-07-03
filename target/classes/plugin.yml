@@ -1,0 +1,6 @@
+name: MaoSwords
+version: '1.0'
+main: me.maoswords.MaoSwords
+api-version: 1.16
+commands:
+  mcs:
